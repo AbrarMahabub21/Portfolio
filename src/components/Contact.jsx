@@ -9,7 +9,6 @@ import { slideIn } from "../utils/motion";
 
 // Template id: template_2q4ps27
 // service id: service_dsdyseb
-//public key: 40ns-cTLDzlQCFbRw
 
 const Contact = () => {
   const formRef = useRef();
